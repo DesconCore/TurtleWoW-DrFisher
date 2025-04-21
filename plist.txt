@@ -1,9 +1,0 @@
-expansion-locale-ptBR.MPQ 930479523c3bd03aad657f919fb2a87b
-data\ptBR\expansion-speech-ptBR.MPQ
-data\ptBR\lichking-locale-ptBR.MPQ
-data\ptBR\lichking-speech-ptBR.MPQ
-data\ptBR\locale-ptBR.MPQ
-data\ptBR\patch-ptBR.MPQ
-data\ptBR\patch-ptBR-2.MPQ
-data\ptBR\patch-ptBR-3.MPQ
-data\ptBR\speech-ptBR.MPQ
