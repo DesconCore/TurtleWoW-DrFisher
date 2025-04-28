@@ -1,2 +1,2 @@
 ## DrFisher Vanilla
-DrFisher: [Download](https://github.com/DesconCore/WoW-Vanilla-DrFisher/archive/refs/heads/main.zip)
+DrFisher: [Download](https://github.com/LaBlazer/drfisher/releases)
